@@ -1,3 +1,4 @@
+DELETE DATABASE retail_db;
 CREATE DATABASE retail_db;
 
 USE retail_db;
